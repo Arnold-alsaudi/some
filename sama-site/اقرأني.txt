@@ -1,0 +1,11 @@
+حط صور سما في فولدر images/sama بالأسماء دي:
+sama-01.jpg , sama-02.jpg , sama-03.jpg ... لحد sama-18.jpg
+
+حط صور الشعر في فولدر images/poetry:
+poetry-01.jpg , poetry-02.jpg ...
+
+لو عندك موسيقى حطها في فولدر music باسم romantic.mp3
+لو مفيش، هتشتغل موسيقى بيانو هادية لوحدها.
+
+كل الكلام تقدر تغيره من أول الكود في index.html عند كلمة SAMA
+افتح index.html على الكمبيوتر وجرب. للرفع على النت اسحب الفولدر كله على netlify.com/drop
